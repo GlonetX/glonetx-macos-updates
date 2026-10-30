@@ -6,6 +6,15 @@
         <description>正式版更新</description>
         <language>zh-CN</language>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Fri, 30 Oct 2026 11:41:15 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/GlonetX/glonetx-macos-updates/main/GlonetX-0.1.1-3-macos-arm64.zip" length="21946811" type="application/octet-stream" sparkle:edSignature="M7RU1hUQ3LUb8HWH/ZJkvdYIJPeHuFtT0hzO4s7T+0MBhcXLnByI65OI9n4fD3M4smOlc2+Wz1AK232Q+UPhAw=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Fri, 30 Oct 2026 11:33:40 +0800</pubDate>
             <sparkle:version>2</sparkle:version>
